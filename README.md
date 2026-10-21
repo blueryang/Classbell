@@ -62,7 +62,14 @@ python3 classbell.py --dry-run  # 只打印消息，不发送（先用这个自�
 1. 把本仓库 fork 或克隆到你自己的账号
 2. 在仓库 Settings → Secrets and variables → Actions 里添加 Secret：`SERVERCHAN_SENDKEY`
 3. 把你的课表提交为仓库里的 `schedule.json`（注意：公开仓库里课表人人可见，在意隐私请用私有仓库）
-4. 仓库自带的 [reminder workflow](.github/workflows/reminder.yml) 会在北京时间每天 20:00 自动运行（cron 写的是 UTC 时间 12:00，周日到周四）
+4. 仓库自带的 [reminder workflow](.github/workflows/reminder.yml) 默认只开启了手动触发（workflow_dispatch）。想让它在北京时间每天 20:00（周日到周四）自动运行，把 workflow 里的 `on:` 改成：
+
+```yaml
+on:
+  schedule:
+    - cron: "0 12 * * 0-4"   # UTC 12:00 = 北京时间 20:00
+  workflow_dispatch:
+```
 
 ## 注意事项
 
