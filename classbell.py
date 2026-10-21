@@ -1,1 +1,99 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJDbGFzc0JlbGw6IHB1c2ggdG9tb3Jyb3cncyBjbGFzcyBzY2hlZHVsZSB0byBXZUNoYXQgdmlhIFNlcnZlckNoYW4uCgpSZWFkcyBhIHNjaGVkdWxlIEpTT04gZmlsZSwgY29tcHV0ZXMgdG9tb3Jyb3cncyB0ZWFjaGluZyB3ZWVrIGZyb20gdGhlCnNlbWVzdGVyIHN0YXJ0IGRhdGUsIGFuZCBzZW5kcyB0aGUgY2xhc3MgbGlzdCAodGltZSwgY2xhc3Nyb29tLCBjb3Vyc2UKbmFtZSkgdGhyb3VnaCBTZXJ2ZXJDaGFuIChodHRwczovL3NjdC5mdHFxLmNvbSkuCgpUaGUgU2VydmVyQ2hhbiBTZW5kS2V5IGlzIHJlYWQgZnJvbSB0aGUgZW52aXJvbm1lbnQgdmFyaWFibGUKU0VSVkVSQ0hBTl9TRU5ES0VZLiBJdCBpcyBuZXZlciBzdG9yZWQgaW4gdGhpcyByZXBvLgoKVXNhZ2U6CiAgICBleHBvcnQgU0VSVkVSQ0hBTl9TRU5ES0VZPVNDVHh4eHh4eHh4eHh4eHh4eHgKICAgIHB5dGhvbjMgY2xhc3NiZWxsLnB5ICAgICAgICAgICAgICAgICAgICAgICMgcHVzaCB0b21vcnJvdydzIGNsYXNzZXMKICAgIHB5dGhvbjMgY2xhc3NiZWxsLnB5IC0tZHJ5LXJ1biAgICAgICAgICAgICMgcHJpbnQgdGhlIG1lc3NhZ2UsIGRvIG5vdCBzZW5kCiAgICBweXRob24zIGNsYXNzYmVsbC5weSAtLWZvci1kYXRlIDIwMjYtMTAtMjAgLS1kcnktcnVuCiIiIgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHVybGxpYi5wYXJzZQppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUsIHRpbWVkZWx0YQpmcm9tIHpvbmVpbmZvIGltcG9ydCBab25lSW5mbwoKV0VFS0RBWV9DTiA9IHsxOiAi5ZGo5LiAIiwgMjogIuWRqOS6jCIsIDM6ICLlkajkuIkiLCA0OiAi5ZGo5ZubIiwgNTogIuWRqOS6lCIsIDY6ICLlkajlha0iLCA3OiAi5ZGo5pelIn0KREVGQVVMVF9TQ0hFRFVMRSA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICJzY2hlZHVsZS5qc29uIikKCgpkZWYgbG9hZF9zY2hlZHVsZShwYXRoKToKICAgIHdpdGggb3BlbihwYXRoLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIHJldHVybiBqc29uLmxvYWQoZikKCgpkZWYgdG9tb3Jyb3dfY2xhc3NlcyhzY2hlZCwgdG9kYXkpOgogICAgdG9tb3Jyb3cgPSB0b2RheSArIHRpbWVkZWx0YShkYXlzPTEpCiAgICBzdGFydCA9IGRhdGUuZnJvbWlzb2Zvcm1hdChzY2hlZFsic2VtZXN0ZXJfc3RhcnQiXSkKICAgIHdlZWsgPSAodG9tb3Jyb3cgLSBzdGFydCkuZGF5cyAvLyA3ICsgMQogICAgd2Vla2RheSA9IHRvbW9ycm93Lmlzb3dlZWtkYXkoKQogICAgY2xhc3NlcyA9IFtdCiAgICBpZiAxIDw9IHdlZWsgPD0gc2NoZWRbIm1heF93ZWVrIl06CiAgICAgICAgZm9yIGMgaW4gc2NoZWRbImRheXMiXS5nZXQoc3RyKHdlZWtkYXkpLCBbXSk6CiAgICAgICAgICAgIGlmIHdlZWsgaW4gY1sid2Vla3MiXToKICAgICAgICAgICAgICAgIGNsYXNzZXMuYXBwZW5kKGMpCiAgICByZXR1cm4gdG9tb3Jyb3csIHdlZWssIHdlZWtkYXksIGNsYXNzZXMKCgpkZWYgYnVpbGRfbWVzc2FnZSh0b21vcnJvdywgd2Vla2RheSwgY2xhc3Nlcyk6CiAgICB3ZCA9IFdFRUtEQVlfQ05bd2Vla2RheV0KICAgIGlmIG5vdCBjbGFzc2VzOgogICAgICAgIHJldHVybiBmIuaYjuaXpe+8iHt3ZH3vvInml6Dor74iLCAiIgogICAgcGFydHMgPSBbZiJ7Y1sncGVyaW9kcyddfSB7Y1snY291cnNlJ119IEAge2NbJ3Jvb20nXX0iIGZvciBjIGluIGNsYXNzZXNdCiAgICB0aXRsZSA9IGYi5piO5pel6K++56iL77yIe3dkfe+8ie+8miAiICsgIu+8myIuam9pbihwYXJ0cykKICAgIGRlc3BfbGluZXMgPSBbZiItICoqe2NbJ3BlcmlvZHMnXX0qKiB7Y1snY291cnNlJ119772ce2NbJ3Jvb20nXX0iIGZvciBjIGluIGNsYXNzZXNdCiAgICBkZXNwID0gZiIjIyDmmI7ml6XvvIh7dG9tb3Jyb3c6JW3mnIglZOaXpX0ge3dkfe+8ieivvueoi1xuIiArICJcbiIuam9pbihkZXNwX2xpbmVzKQogICAgcmV0dXJuIHRpdGxlLCBkZXNwCgoKZGVmIHNlbmRfc2VydmVyY2hhbihzZW5ka2V5LCB0aXRsZSwgZGVzcCk6CiAgICAiIiJQT1NUIHRvIFNlcnZlckNoYW4uIFJldHVybnMgVHJ1ZSBvbiBzdWNjZXNzLiIiIgogICAgdXJsID0gZiJodHRwczovL3NjdGFwaS5mdHFxLmNvbS97c2VuZGtleX0uc2VuZCIKICAgIGRhdGEgPSB1cmxsaWIucGFyc2UudXJsZW5jb2RlKHsidGl0bGUiOiB0aXRsZSwgImRlc3AiOiBkZXNwfSkuZW5jb2RlKCkKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBkYXRhPWRhdGEpCiAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PTMwKSBhcyByZXNwOgogICAgICAgIHJlc3VsdCA9IGpzb24ubG9hZHMocmVzcC5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpKQogICAgcmV0dXJuIHJlc3VsdC5nZXQoImNvZGUiKSA9PSAwCgoKZGVmIG1haW4oKToKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249IlB1c2ggdG9tb3Jyb3cncyBjbGFzc2VzIHRvIFdlQ2hhdCB2aWEgU2VydmVyQ2hhbi4iKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXNjaGVkdWxlIiwgZGVmYXVsdD1ERUZBVUxUX1NDSEVEVUxFLCBoZWxwPSJwYXRoIHRvIHNjaGVkdWxlIEpTT04iKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXR6IiwgZGVmYXVsdD0iQXNpYS9TaGFuZ2hhaSIsIGhlbHA9InRpbWV6b25lIGZvciAndG9kYXknIChkZWZhdWx0IEFzaWEvU2hhbmdoYWkpIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1kcnktcnVuIiwgYWN0aW9uPSJzdG9yZV90cnVlIiwgaGVscD0icHJpbnQgdGhlIG1lc3NhZ2Ugb25seSwgZG8gbm90IHNlbmQiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWZvci1kYXRlIiwgZGVmYXVsdD1Ob25lLCBoZWxwPSJZWVlZLU1NLUREIHRvIHRyZWF0IGFzIHRvZGF5ICh0ZXN0aW5nKSIpCiAgICBhcmdzID0gYXAucGFyc2VfYXJncygpCgogICAgc2NoZWQgPSBsb2FkX3NjaGVkdWxlKGFyZ3Muc2NoZWR1bGUpCiAgICBpZiBhcmdzLmZvcl9kYXRlOgogICAgICAgIHRvZGF5ID0gZGF0ZS5mcm9taXNvZm9ybWF0KGFyZ3MuZm9yX2RhdGUpCiAgICBlbHNlOgogICAgICAgIHRvZGF5ID0gZGF0ZXRpbWUubm93KFpvbmVJbmZvKGFyZ3MudHopKS5kYXRlKCkKICAgIHRvbW9ycm93LCB3ZWVrLCB3ZWVrZGF5LCBjbGFzc2VzID0gdG9tb3Jyb3dfY2xhc3NlcyhzY2hlZCwgdG9kYXkpCiAgICB0aXRsZSwgZGVzcCA9IGJ1aWxkX21lc3NhZ2UodG9tb3Jyb3csIHdlZWtkYXksIGNsYXNzZXMpCiAgICBwcmludChmImRhdGU9e3RvbW9ycm93fSB3ZWVrPXt3ZWVrfSB3ZWVrZGF5PXtXRUVLREFZX0NOW3dlZWtkYXldfSBjbGFzc2VzPXtsZW4oY2xhc3Nlcyl9IikKICAgIHByaW50KGYiVElUTEU6IHt0aXRsZX0iKQogICAgaWYgYXJncy5kcnlfcnVuOgogICAgICAgIHByaW50KGRlc3ApCiAgICAgICAgcmV0dXJuCiAgICBzZW5ka2V5ID0gb3MuZW52aXJvbi5nZXQoIlNFUlZFUkNIQU5fU0VOREtFWSIsICIiKQogICAgaWYgbm90IHNlbmRrZXk6CiAgICAgICAgcHJpbnQoIkVSUk9SOiBlbnZpcm9ubWVudCB2YXJpYWJsZSBTRVJWRVJDSEFOX1NFTkRLRVkgaXMgbm90IHNldC4iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgc3lzLmV4aXQoMikKICAgIG9rID0gc2VuZF9zZXJ2ZXJjaGFuKHNlbmRrZXksIHRpdGxlLCBkZXNwKQogICAgcHJpbnQoIlBVU0hfT0siIGlmIG9rIGVsc2UgIlBVU0hfRkFJTEVEIikKICAgIHN5cy5leGl0KDAgaWYgb2sgZWxzZSAxKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""ClassBell: push tomorrow's class schedule to WeChat via ServerChan.
+
+Reads a schedule JSON file, computes tomorrow's teaching week from the
+semester start date, and sends the class list (time, classroom, course
+name) through ServerChan (https://sct.ftqq.com).
+
+The ServerChan SendKey is read from the environment variable
+SERVERCHAN_SENDKEY. It is never stored in this repo.
+
+Usage:
+    export SERVERCHAN_SENDKEY=SCTxxxxxxxxxxxxxxxx
+    python3 classbell.py                      # push tomorrow's classes
+    python3 classbell.py --dry-run            # print the message, do not send
+    python3 classbell.py --for-date 2026-10-20 --dry-run
+"""
+import argparse
+import json
+import os
+import sys
+import urllib.parse
+import urllib.request
+from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
+
+WEEKDAY_CN = {1: "周一", 2: "周二", 3: "周三", 4: "周四", 5: "周五", 6: "周六", 7: "周日"}
+DEFAULT_SCHEDULE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "schedule.json")
+
+
+def load_schedule(path):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def tomorrow_classes(sched, today):
+    tomorrow = today + timedelta(days=1)
+    start = date.fromisoformat(sched["semester_start"])
+    week = (tomorrow - start).days // 7 + 1
+    weekday = tomorrow.isoweekday()
+    classes = []
+    if 1 <= week <= sched["max_week"]:
+        for c in sched["days"].get(str(weekday), []):
+            if week in c["weeks"]:
+                classes.append(c)
+    return tomorrow, week, weekday, classes
+
+
+def build_message(tomorrow, weekday, classes):
+    wd = WEEKDAY_CN[weekday]
+    if not classes:
+        return f"明日（{wd}）无课", ""
+    parts = [f"{c['periods']} {c['course']} @ {c['room']}" for c in classes]
+    title = f"明日课程（{wd}）： " + "；".join(parts)
+    desp_lines = [f"- **{c['periods']}** {c['course']}｜{c['room']}" for c in classes]
+    desp = f"## 明日（{tomorrow:%m月%d日} {wd}）课程\n" + "\n".join(desp_lines)
+    return title, desp
+
+
+def send_serverchan(sendkey, title, desp):
+    """POST to ServerChan. Returns True on success."""
+    url = f"https://sctapi.ftqq.com/{sendkey}.send"
+    data = urllib.parse.urlencode({"title": title, "desp": desp}).encode()
+    req = urllib.request.Request(url, data=data)
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        result = json.loads(resp.read().decode("utf-8"))
+    return result.get("code") == 0
+
+
+def main():
+    ap = argparse.ArgumentParser(description="Push tomorrow's classes to WeChat via ServerChan.")
+    ap.add_argument("--schedule", default=DEFAULT_SCHEDULE, help="path to schedule JSON")
+    ap.add_argument("--tz", default="Asia/Shanghai", help="timezone for 'today' (default Asia/Shanghai)")
+    ap.add_argument("--dry-run", action="store_true", help="print the message only, do not send")
+    ap.add_argument("--for-date", default=None, help="YYYY-MM-DD to treat as today (testing)")
+    args = ap.parse_args()
+
+    sched = load_schedule(args.schedule)
+    if args.for_date:
+        today = date.fromisoformat(args.for_date)
+    else:
+        today = datetime.now(ZoneInfo(args.tz)).date()
+    tomorrow, week, weekday, classes = tomorrow_classes(sched, today)
+    title, desp = build_message(tomorrow, weekday, classes)
+    print(f"date={tomorrow} week={week} weekday={WEEKDAY_CN[weekday]} classes={len(classes)}")
+    print(f"TITLE: {title}")
+    if args.dry_run:
+        print(desp)
+        return
+    sendkey = os.environ.get("SERVERCHAN_SENDKEY", "")
+    if not sendkey:
+        print("ERROR: environment variable SERVERCHAN_SENDKEY is not set.", file=sys.stderr)
+        sys.exit(2)
+    ok = send_serverchan(sendkey, title, desp)
+    print("PUSH_OK" if ok else "PUSH_FAILED")
+    sys.exit(0 if ok else 1)
+
+
+if __name__ == "__main__":
+    main()
