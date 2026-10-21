@@ -1,1 +1,6 @@
-X19weWNhY2hlX18vCioucHlbY29kXQouZW52CiMgWW91ciByZWFsIHNjaGVkdWxlIG1heSBiZSBwcml2YXRlOyBvbmx5IHRoZSBleGFtcGxlIGZpbGUgaXMgdHJhY2tlZC4Kc2NoZWR1bGUuanNvbgoqLmxvZwo=
+__pycache__/
+*.py[cod]
+.env
+# Your real schedule may be private; only the example file is tracked.
+schedule.json
+*.log
