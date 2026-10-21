@@ -1,1 +1,75 @@
-IyBDbGFzc0JlbGwKCuWfuuS6jiBbU2VydmVyQ2hhbl0oaHR0cHM6Ly9zY3QuZnRxcS5jb20pIOeahOivvuihqOW+ruS/oeaPkOmGkuW3peWFt++8muavj+WkqeaZmuS4iuiHquWKqOaKiioq56ys5LqM5aSpKirnmoTor77nqIvmjqjpgIHliLDlvq7kv6HvvIzlho3kuZ/kuI3nlKjkuLTnnaHliY3nv7vmlZnliqHns7vnu5/mn6Xor77ooajjgIIKCuaOqOmAgeWGheWuueWPquWMheWQq+S4iemhue+8muS4iuivvuiKguasoeOAgeivvueoi+WQjeensOOAgeaVmeWupOOAguayoeacieivvueahOaXpeWtkOS8muaOqOmAgeS4gOadoeKAnOaYjuaXpeaXoOivvuKAneOAggoKIyMg5Yqf6IO9CgotIOaMieWtpuacn+esrOS4gOWkqeiHquWKqOaOqOeul+aVmeWtpuWRqO+8jOaUr+aMgeavj+mXqOivvuWNleeLrOiuvue9ruS4iuivvuWRqOasoe+8iOWmguWNleWPjOWRqOOAgeWPquS4iuWJjSA4IOWRqO+8iQotIOa2iOaBr+agh+mimOWNs+WMheWQq+WFqOmDqOivvueoi+S/oeaBr++8iFNlcnZlckNoYW4g5YWN6LS554mI5Zyo5b6u5L+h6YeM5Y+q5bGV56S65Y2h54mH5qCH6aKY77yM6L+Z5qC35LiN55So54K55byA5bCx6IO955yL5YWo77yJCi0g57qvIFB5dGhvbiAzIOagh+WHhuW6k++8jOmbtuS+nei1lu+8jFB5dGhvbiAzLjkrIOWNs+WPr+i/kOihjAotIOS4pOenjemDqOe9suaWueW8j++8muiHquW3seeahOacjeWKoeWZqC9WUFMg55SoIGNyb27vvIzmiJYgR2l0SHViIEFjdGlvbnMg5YWN6LS55a6a5pe26L+Q6KGMCgojIyDlv6vpgJ/lvIDlp4sKCiMjIyAxLiDlh4blpIcgU2VydmVyQ2hhbiBTZW5kS2V5CgrliLAgW1NlcnZlckNoYW5dKGh0dHBzOi8vc2N0LmZ0cXEuY29tKSDnmbvlvZXvvIzlnKjjgIzlj5HpgIHmtojmga/jgI3pobXpnaLmi7/liLDkvaDnmoQgU2VuZEtlee+8iOW9ouWmgiBgU0NUeHh4eHh4eHhg77yJ44CCCgojIyMgMi4g5aGr5YaZ6K++6KGoCgrmiornpLrkvovor77ooajlpI3liLbkuLogYHNjaGVkdWxlLmpzb25g77yM5oyJ5L2g55qE55yf5a6e6K++6KGo5L+u5pS577yaCgpgYGBiYXNoCmNwIHNjaGVkdWxlLmV4YW1wbGUuanNvbiBzY2hlZHVsZS5qc29uCmBgYAoK6K++6KGo5qC85byP6K+05piO77yaCgp8IOWtl+autSB8IOivtOaYjiB8CnwgLS0tIHwgLS0tIHwKfCBgc2VtZXN0ZXJfc3RhcnRgIHwg5a2m5pyf56ys5LiA5aSp77yI56ys5LiA5pWZ5a2m5ZGo55qE5ZGo5LiA77yJ77yMYFlZWVktTU0tRERgIHwKfCBgbWF4X3dlZWtgIHwg5pys5a2m5pyf5oC75ZGo5pWwIHwKfCBgZGF5c2AgfCDplK7mmK/mmJ/mnJ/lh6DvvJpgIjEiYD3lkajkuIAg4oCmIGAiNyJgPeWRqOaXpSB8CnwgYGNvdXJzZWAgfCDor77nqIvlkI3np7AgfAp8IGBwZXJpb2RzYCB8IOiKguasoeaWh+acrO+8jOWmgiBg56ysMS0y6IqCYO+8jOWOn+agt+aYvuekuuWcqOa2iOaBr+mHjCB8CnwgYHJvb21gIHwg5pWZ5a6kIHwKfCBgd2Vla3NgIHwg6L+Z6Zeo6K++5a6e6ZmF5LiK6K++55qE5pWZ5a2m5ZGo5YiX6KGoIHwKCiMjIyAzLiDov5DooYwKCmBgYGJhc2gKZXhwb3J0IFNFUlZFUkNIQU5fU0VOREtFWT3kvaDnmoRTZW5kS2V5CnB5dGhvbjMgY2xhc3NiZWxsLnB5ICAgICAgICAgICAgIyDmjqjpgIHmmI7lpKnnmoTor74KcHl0aG9uMyBjbGFzc2JlbGwucHkgLS1kcnktcnVuICAjIOWPquaJk+WNsOa2iOaBr++8jOS4jeWPkemAge+8iOWFiOeUqOi/meS4quiHqua1i++8iQpgYGAKCuWPr+mAieWPguaVsO+8mmAtLXNjaGVkdWxlIOi3r+W+hGAg5oyH5a6a6K++6KGo5paH5Lu277yMYC0tZm9yLWRhdGUgWVlZWS1NTS1ERGAg5oqK5p+Q5aSp5b2T5L2c4oCc5LuK5aSp4oCd5rWL6K+V77yMYC0tdHog5pe25Yy6YCDpu5jorqQgYEFzaWEvU2hhbmdoYWlg44CCCgojIyDpg6jnvbIKCiMjIyDmlrnlvI/kuIDvvJrmnI3liqHlmaggY3JvbgoK5q+P5Liq5pyJ6K++55qE5pma5LiKIDIwOjAwIOaOqOmAgeasoeaXpeivvueoi++8iOWRqOaXpeWIsOWRqOWbm+aZmui/kOihjOWNs+WPr++8jOWRqOS6lOOAgeWRqOWFreaZmuWPr+i3s+i/h++8ie+8mgoKYGBgY3JvbgowIDIwICogKiAwLTQgIGNkIC9wYXRoL3RvL2NsYXNzYmVsbCAmJiBTRVJWRVJDSEFOX1NFTkRLRVk95L2g55qEU2VuZEtleSBweXRob24zIGNsYXNzYmVsbC5weSA+PiBjbGFzc2JlbGwubG9nIDI+JjEKYGBgCgojIyMg5pa55byP5LqM77yaR2l0SHViIEFjdGlvbnPvvIjlhY3mnI3liqHlmajvvIkKCjEuIOaKiuacrOS7k+W6kyBmb3JrIOaIluWFi+mahuWIsOS9oOiHquW3seeahOi0puWPtwoyLiDlnKjku5PlupMgU2V0dGluZ3Mg4oaSIFNlY3JldHMgYW5kIHZhcmlhYmxlcyDihpIgQWN0aW9ucyDph4zmt7vliqAgU2VjcmV077yaYFNFUlZFUkNIQU5fU0VOREtFWWAKMy4g5oqK5L2g55qE6K++6KGo5o+Q5Lqk5Li65LuT5bqT6YeM55qEIGBzY2hlZHVsZS5qc29uYO+8iOazqOaEj++8muWFrOW8gOS7k+W6k+mHjOivvuihqOS6uuS6uuWPr+inge+8jOWcqOaEj+makOengeivt+eUqOengeacieS7k+W6k++8iQo0LiDku5PlupPoh6rluKbnmoQgW3JlbWluZGVyIHdvcmtmbG93XSguZ2l0aHViL3dvcmtmbG93cy9yZW1pbmRlci55bWwpIOS8muWcqOWMl+S6rOaXtumXtOavj+WkqSAyMDowMCDoh6rliqjov5DooYzvvIhjcm9uIOWGmeeahOaYryBVVEMg5pe26Ze0IDEyOjAw77yM5ZGo5pel5Yiw5ZGo5Zub77yJCgojIyDms6jmhI/kuovpobkKCi0gU2VydmVyQ2hhbiDlhY3otLnniYjmr4/lpKnmnInmjqjpgIHmnaHmlbDkuIrpmZDvvIzor77nqIvmj5DphpLmr4/lpKnkuIDmnaHvvIzotrPlpJ/nlKgKLSBTZW5kS2V5IOaYr+aVj+aEn+S/oeaBr++8muWPqumAmui/h+eOr+Wig+WPmOmHj+aIliBHaXRIdWIgU2VjcmV0cyDkvKDlhaXvvIzkuI3opoHlhpnov5vku6PnoIHmiJbmj5DkuqTliLDku5PlupPvvIhgLmdpdGlnbm9yZWAg5bey6buY6K6k5o6S6ZmkIGBzY2hlZHVsZS5qc29uYCDkuI4gYC5lbnZg77yM5L2GIFNlbmRLZXkg6K+35Yu/5YaZ6L+b6K++6KGo5paH5Lu277yJCi0g5a+S5pqR5YGH5oiW6LCD5LyR5pyf6Ze05LiN5oOz5o6o6YCB77yM5YGc5o6JIGNyb24gLyDnpoHnlKggd29ya2Zsb3cg5Y2z5Y+vCgojIyDljY/orq4KCltNSVRdKExJQ0VOU0UpCg==
+# ClassBell
+
+基于 [ServerChan](https://sct.ftqq.com) 的课表微信提醒工具：每天晚上自动把**第二天**的课程推送到微信，再也不用临睡前翻教务系统查课表。
+
+推送内容只包含三项：上课节次、课程名称、教室。没有课的日子会推送一条“明日无课”。
+
+## 功能
+
+- 按学期第一天自动推算教学周，支持每门课单独设置上课周次（如单双周、只上前 8 周）
+- 消息标题即包含全部课程信息（ServerChan 免费版在微信里只展示卡片标题，这样不用点开就能看全）
+- 纯 Python 3 标准库，零依赖，Python 3.9+ 即可运行
+- 两种部署方式：自己的服务器/VPS 用 cron，或 GitHub Actions 免费定时运行
+
+## 快速开始
+
+### 1. 准备 ServerChan SendKey
+
+到 [ServerChan](https://sct.ftqq.com) 登录，在「发送消息」页面拿到你的 SendKey（形如 `SCTxxxxxxxx`）。
+
+### 2. 填写课表
+
+把示例课表复制为 `schedule.json`，按你的真实课表修改：
+
+```bash
+cp schedule.example.json schedule.json
+```
+
+课表格式说明：
+
+| 字段 | 说明 |
+| --- | --- |
+| `semester_start` | 学期第一天（第一教学周的周一），`YYYY-MM-DD` |
+| `max_week` | 本学期总周数 |
+| `days` | 键是星期几：`"1"`=周一 … `"7"`=周日 |
+| `course` | 课程名称 |
+| `periods` | 节次文本，如 `第1-2节`，原样显示在消息里 |
+| `room` | 教室 |
+| `weeks` | 这门课实际上课的教学周列表 |
+
+### 3. 运行
+
+```bash
+export SERVERCHAN_SENDKEY=你的SendKey
+python3 classbell.py            # 推送明天的课
+python3 classbell.py --dry-run  # 只打印消息，不发送（先用这个自测）
+```
+
+可选参数：`--schedule 路径` 指定课表文件，`--for-date YYYY-MM-DD` 把某天当作“今天”测试，`--tz 时区` 默认 `Asia/Shanghai`。
+
+## 部署
+
+### 方式一：服务器 cron
+
+每个有课的晚上 20:00 推送次日课程（周日到周四晚运行即可，周五、周六晚可跳过）：
+
+```cron
+0 20 * * 0-4  cd /path/to/classbell && SERVERCHAN_SENDKEY=你的SendKey python3 classbell.py >> classbell.log 2>&1
+```
+
+### 方式二：GitHub Actions（免服务器）
+
+1. 把本仓库 fork 或克隆到你自己的账号
+2. 在仓库 Settings → Secrets and variables → Actions 里添加 Secret：`SERVERCHAN_SENDKEY`
+3. 把你的课表提交为仓库里的 `schedule.json`（注意：公开仓库里课表人人可见，在意隐私请用私有仓库）
+4. 仓库自带的 [reminder workflow](.github/workflows/reminder.yml) 会在北京时间每天 20:00 自动运行（cron 写的是 UTC 时间 12:00，周日到周四）
+
+## 注意事项
+
+- ServerChan 免费版每天有推送条数上限，课程提醒每天一条，足够用
+- SendKey 是敏感信息：只通过环境变量或 GitHub Secrets 传入，不要写进代码或提交到仓库（`.gitignore` 已默认排除 `schedule.json` 与 `.env`，但 SendKey 请勿写进课表文件）
+- 寒暑假或调休期间不想推送，停掉 cron / 禁用 workflow 即可
+
+## 协议
+
+[MIT](LICENSE)
